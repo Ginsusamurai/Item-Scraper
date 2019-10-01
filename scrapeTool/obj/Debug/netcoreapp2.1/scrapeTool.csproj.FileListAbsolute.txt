@@ -1,0 +1,10 @@
+C:\Users\MorganHeinemann\source\repos\scrapeTool\scrapeTool\bin\Debug\netcoreapp2.1\scrapeTool.deps.json
+C:\Users\MorganHeinemann\source\repos\scrapeTool\scrapeTool\bin\Debug\netcoreapp2.1\scrapeTool.runtimeconfig.json
+C:\Users\MorganHeinemann\source\repos\scrapeTool\scrapeTool\bin\Debug\netcoreapp2.1\scrapeTool.runtimeconfig.dev.json
+C:\Users\MorganHeinemann\source\repos\scrapeTool\scrapeTool\bin\Debug\netcoreapp2.1\scrapeTool.dll
+C:\Users\MorganHeinemann\source\repos\scrapeTool\scrapeTool\obj\Debug\netcoreapp2.1\scrapeTool.csprojAssemblyReference.cache
+C:\Users\MorganHeinemann\source\repos\scrapeTool\scrapeTool\obj\Debug\netcoreapp2.1\scrapeTool.AssemblyInfoInputs.cache
+C:\Users\MorganHeinemann\source\repos\scrapeTool\scrapeTool\obj\Debug\netcoreapp2.1\scrapeTool.AssemblyInfo.cs
+C:\Users\MorganHeinemann\source\repos\scrapeTool\scrapeTool\bin\Debug\netcoreapp2.1\scrapeTool.pdb
+C:\Users\MorganHeinemann\source\repos\scrapeTool\scrapeTool\obj\Debug\netcoreapp2.1\scrapeTool.dll
+C:\Users\MorganHeinemann\source\repos\scrapeTool\scrapeTool\obj\Debug\netcoreapp2.1\scrapeTool.pdb
